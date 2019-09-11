@@ -1,7 +1,7 @@
-# Predicting-Uber-Requirement-in-New-York
-Made using R
-# Analysing data from Uber for New York City.
 
+
+# Analysing data from Uber for New York City.
+Made using R
 ## Introduction
 New York City (NYC) is the most populous city in the United States. It is also the most
 densely populated major city in the United States. Situated on one of the world's largest
